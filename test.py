@@ -1,1 +1,1 @@
-print("luk fan")
+print("kluk fan")
